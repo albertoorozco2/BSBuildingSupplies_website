@@ -1,0 +1,88 @@
+
+
+#indexlogo{
+	width: 24%;
+	margin: 1% 38% 1% 38%;
+}
+
+#captcha{
+width: 170px;
+margin-top: .5em;
+
+}
+#login{
+	width: 40%;
+	margin: 1% 25% 1% 35%;
+}
+.foottext{
+	font-size: .7em;
+	text-align: center;
+	font-weight: 100;
+}
+
+
+.aler{font-size: 1.6em;
+	color: #B22222;
+	text-align: center;
+	background-color: rgba(255, 255, 255, .5);
+	margin: 3% 0% 0% 0%; 
+}
+
+
+
+#creaccount{
+	width: 60%;
+	margin: 1% 20% 1% 20%;
+
+}
+
+.aler2{
+	font-size: 0em;
+	color: red;
+	text-align: center;
+}
+h3{ text-align: center; }
+
+#navbar{
+	padding-left: 1px; 
+}
+.menu {
+	font-size: 1em;
+	height: 2.5em;
+	padding: .5em 0em 0em 0em;
+	text-align: center;
+}
+.usertype{
+	padding: 0px;
+	margin: 2% 0% 0% 0%;
+	text-align: center;
+	font-size: .8em;
+}
+.imgproduct{
+	width: 70%;
+	margin: 0% 15% 0% 15%;
+}
+#details{
+	padding-left: 5%;
+}
+#quantity, .quantity{
+	width: 40%;
+	margin-left: 40%;
+}
+table{
+	font-size: .9em;
+	text-align: left;
+}
+
+@media (max-width: 500px){
+#indexlogo{
+	width: 80%;
+	margin: 1% 10% 1% 10%;
+}
+#login, #creaccount{
+	width: 100%;
+		margin: 0%;
+
+}
+
+}
